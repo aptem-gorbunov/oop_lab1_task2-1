@@ -1,1 +1,1 @@
-# oop_lab1_task2
+21.30 Lojka Liubart
